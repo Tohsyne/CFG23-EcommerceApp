@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/cfg23-ecommerceapp/static/css/main.449bd177.css",
-    "main.js": "/cfg23-ecommerceapp/static/js/main.622efbb6.js",
-    "static/js/787.791e5b3c.chunk.js": "/cfg23-ecommerceapp/static/js/787.791e5b3c.chunk.js",
-    "static/media/Model_for_homepage.jpg": "/cfg23-ecommerceapp/static/media/Model_for_homepage.933d8433f916c46be26f.jpg",
-    "static/media/beaute_products shot.jpg": "/cfg23-ecommerceapp/static/media/beaute_products shot.64f1c313ab89befd6923.jpg",
-    "static/media/Model_for_cart.jpg": "/cfg23-ecommerceapp/static/media/Model_for_cart.8dc367b5df0f574ce07b.jpg",
-    "static/media/skintypes_image.jpg": "/cfg23-ecommerceapp/static/media/skintypes_image.d530ab75df07d65e2221.jpg",
-    "static/media/beaute_eyes_02.jpg": "/cfg23-ecommerceapp/static/media/beaute_eyes_02.1d9249372d35dda0d60f.jpg",
-    "static/media/eyes2.jpg": "/cfg23-ecommerceapp/static/media/eyes2.1d9249372d35dda0d60f.jpg",
-    "static/media/eyes1.jpg": "/cfg23-ecommerceapp/static/media/eyes1.7d9895a433ce0f8f7fb3.jpg",
-    "static/media/beaute_lipstick_01.jpg": "/cfg23-ecommerceapp/static/media/beaute_lipstick_01.8ab58398fab37de47583.jpg",
-    "static/media/lipstick1.jpg": "/cfg23-ecommerceapp/static/media/lipstick1.8ab58398fab37de47583.jpg",
-    "static/media/lipstick2.jpg": "/cfg23-ecommerceapp/static/media/lipstick2.94659aca3e824fb862a3.jpg",
-    "static/media/foundation2.jpg": "/cfg23-ecommerceapp/static/media/foundation2.7c808504925628c2986b.jpg",
-    "static/media/beaute_foundation_01.jpg": "/cfg23-ecommerceapp/static/media/beaute_foundation_01.1ad5ad4565433246d645.jpg",
-    "static/media/foundation1.jpg": "/cfg23-ecommerceapp/static/media/foundation1.1ad5ad4565433246d645.jpg",
-    "static/media/beaute_logo_lb.svg": "/cfg23-ecommerceapp/static/media/beaute_logo_lb.e3fb495830eadf93b752a398b52f2ee1.svg",
-    "index.html": "/cfg23-ecommerceapp/index.html",
-    "static/media/search-icon.svg": "/cfg23-ecommerceapp/static/media/search-icon.e05d42baa52d3529b5de3d4a82c3914f.svg",
-    "main.449bd177.css.map": "/cfg23-ecommerceapp/static/css/main.449bd177.css.map",
-    "main.622efbb6.js.map": "/cfg23-ecommerceapp/static/js/main.622efbb6.js.map",
-    "787.791e5b3c.chunk.js.map": "/cfg23-ecommerceapp/static/js/787.791e5b3c.chunk.js.map"
+    "main.css": "/CFG23-EcommerceApp/static/css/main.449bd177.css",
+    "main.js": "/CFG23-EcommerceApp/static/js/main.ea1be6c2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CFG23-EcommerceApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Model_for_homepage.jpg": "/CFG23-EcommerceApp/static/media/Model_for_homepage.933d8433f916c46be26f.jpg",
+    "static/media/beaute_products shot.jpg": "/CFG23-EcommerceApp/static/media/beaute_products shot.64f1c313ab89befd6923.jpg",
+    "static/media/Model_for_cart.jpg": "/CFG23-EcommerceApp/static/media/Model_for_cart.8dc367b5df0f574ce07b.jpg",
+    "static/media/skintypes_image.jpg": "/CFG23-EcommerceApp/static/media/skintypes_image.d530ab75df07d65e2221.jpg",
+    "static/media/beaute_eyes_02.jpg": "/CFG23-EcommerceApp/static/media/beaute_eyes_02.1d9249372d35dda0d60f.jpg",
+    "static/media/eyes2.jpg": "/CFG23-EcommerceApp/static/media/eyes2.1d9249372d35dda0d60f.jpg",
+    "static/media/eyes1.jpg": "/CFG23-EcommerceApp/static/media/eyes1.7d9895a433ce0f8f7fb3.jpg",
+    "static/media/beaute_lipstick_01.jpg": "/CFG23-EcommerceApp/static/media/beaute_lipstick_01.8ab58398fab37de47583.jpg",
+    "static/media/lipstick1.jpg": "/CFG23-EcommerceApp/static/media/lipstick1.8ab58398fab37de47583.jpg",
+    "static/media/lipstick2.jpg": "/CFG23-EcommerceApp/static/media/lipstick2.94659aca3e824fb862a3.jpg",
+    "static/media/foundation2.jpg": "/CFG23-EcommerceApp/static/media/foundation2.7c808504925628c2986b.jpg",
+    "static/media/beaute_foundation_01.jpg": "/CFG23-EcommerceApp/static/media/beaute_foundation_01.1ad5ad4565433246d645.jpg",
+    "static/media/foundation1.jpg": "/CFG23-EcommerceApp/static/media/foundation1.1ad5ad4565433246d645.jpg",
+    "static/media/beaute_logo_lb.svg": "/CFG23-EcommerceApp/static/media/beaute_logo_lb.dc39d0fbb0a4d67b929dc4e8da39466c.svg",
+    "static/media/search-icon.svg": "/CFG23-EcommerceApp/static/media/search-icon.cfdf5515cc1ca69be48a0afbf9c89aeb.svg",
+    "index.html": "/CFG23-EcommerceApp/index.html",
+    "main.449bd177.css.map": "/CFG23-EcommerceApp/static/css/main.449bd177.css.map",
+    "main.ea1be6c2.js.map": "/CFG23-EcommerceApp/static/js/main.ea1be6c2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CFG23-EcommerceApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.449bd177.css",
-    "static/js/main.622efbb6.js"
+    "static/js/main.ea1be6c2.js"
   ]
 }
