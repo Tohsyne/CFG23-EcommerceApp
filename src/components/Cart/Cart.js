@@ -11,10 +11,12 @@ const Cart = () => {
 
   return (
     <>
-    <div id="content">
+    <div class="content">
       <img src={cartModel} className="cartModel" alt="cartModel" />
       <div><h1 className="cartTitle">CART</h1></div>
     </div>
+
+    
 
     {productsCount > 0 ? 
         <>
@@ -28,17 +30,17 @@ const Cart = () => {
               quantity={currentProduct.quantity}>
             </CartProduct>
             ))}</div>
-            <div className="blockRight">
+            <div class="cartarea"><div className="blockRight">
             <h1 className="orderSummary">ORDER SUMMARY</h1>
             <h3><span style={{ fontSize: 20 }}>Subtotal</span></h3>
             <h3><span style={{ fontSize: 20 }}>Gift Wrap</span> <p className="priceRight">£0.00</p></h3>
             <h3><span style={{ fontSize: 20 }}>Delivery: Standard Shipping</span> <p className="priceRight">FREE</p></h3>
             <h3 className="estTotal">Estimated Total {cart.getTotalCost()}</h3>
             <button className="payButton" onClick={() => payNow()}>PAY NOW</button>
-            </div>
+            </div></div>
         </>
       :
-        <h2 className="blockRight">YOUR CART IS EMPTY</h2>
+          <h2 className="blockRight">YOUR CART IS EMPTY</h2>
         }
     </>
   );
